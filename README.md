@@ -46,7 +46,9 @@
 <p align="left">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="50" alt="SQLite"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="50" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="50" alt="MySQL"/>
 </p>
+
 
 ### **Operating Systems & Tools**  
 <p align="left">
