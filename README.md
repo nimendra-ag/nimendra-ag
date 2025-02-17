@@ -1,7 +1,7 @@
 # Hi there, I'm Nimendra Gunawardana 👋  
 
 ## 🚀 About Me  
-- 🎓 I’m a **Data Engineering Undergraduate** at the **Faculty of Engineering, University of Ruhuna**  
+- 🎓 I’m a **AI/ML Engineering Undergraduate** at the **Faculty of Engineering, University of Ruhuna**  
 - 🔭 I’m currently working on **Machine Learning & Computer Vision Projects**  
 - 🌱 I’m exploring the field of **IoT and AI-powered applications**  
 - 🤖 Passionate about **Machine Learning, Computer Vision, and IoT**  
