@@ -60,7 +60,7 @@
 
 ## 🌐 Connect with Me  
 <p align="left">
-  <a href="https://github.com/NimendraGunawardana">
+  <a href="https://github.com/nimendra-ag">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/nimendra-gunawardana-a68a69216/">
@@ -75,4 +75,4 @@
 </p>
 
 ---
-⭐️ From [NimendraGunawardana](https://github.com/NimendraGunawardana)
+⭐️ From [NimendraGunawardana](https://github.com/nimendra-ag)
