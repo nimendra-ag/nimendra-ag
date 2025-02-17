@@ -7,7 +7,6 @@
 - 🤖 Passionate about **Machine Learning, Computer Vision, and IoT**  
 - 💬 Ask me about **Python, JavaScript, ML frameworks, databases, and frontend technologies**  
 - 📫 How to reach me: **[nimendraamiththa1@gmail.com](mailto:nimendraamiththa1@gmail.com)**  
-- 🌍 Check out my GitHub: **[github.com/NimendraGunawardana](https://www.linkedin.com/in/nimendra-gunawardana-a68a69216/)**  
 
 ## 🛠 Tech Stack  
 
