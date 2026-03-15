@@ -3,8 +3,7 @@
 ## 🚀 About Me  
 - 🎓 I’m an **Data Science and Engineering Undergraduate** at the **Faculty of Engineering, University of Ruhuna**  
 - 🔭 I’m currently working on **Machine Learning, Data Science & Computer Vision Projects**  
-- 🌱 I’m exploring the field of **IoT and AI-powered applications**  
-- 🤖 Passionate about **Machine Learning, Computer Vision, and IoT**  
+- 🤖 Passionate about **Machine Learning, Computer Vision**  
 - 💬 Ask me about **Python, JavaScript, ML frameworks, databases, and frontend technologies**  
 - 📫 How to reach me: **[nimendraamiththa1@gmail.com](mailto:nimendraamiththa1@gmail.com)**  
 
